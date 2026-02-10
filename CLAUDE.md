@@ -21,6 +21,19 @@ AI-generated data science project for testing Claude and agentic AI capabilities
 - `tables/` - Generated tabular outputs
 - `main.py` - Entry point
 
+## Dataset
+
+Download the credit card customer attrition dataset from Kaggle:
+
+```python
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("thedevastator/predicting-credit-card-customer-attrition-with-m")
+
+print("Path to dataset files:", path)
+```
+
 ## Dependencies
 
 Python 3.9 with pandas, numpy, and matplotlib. Managed via `uv` with `pyproject.toml` and `uv.lock`.
