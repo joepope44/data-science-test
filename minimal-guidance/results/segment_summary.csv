@@ -1,0 +1,5 @@
+Cluster,Customer_Age,Credit_Limit,Total_Revolving_Bal,Total_Trans_Amt,Total_Trans_Ct,Avg_Utilization_Ratio,Months_Inactive_12_mon,Contacts_Count_12_mon,Total_Relationship_Count,Months_on_book,Attrition_Rate,Size,Pct_of_Total
+0,46.3,3574.16,1680.88,3561.87,63.18,0.56,2.31,2.35,4.08,35.73,0.081,4024,39.7
+1,46.58,6772.59,543.34,3164.3,56.98,0.08,2.42,2.63,3.98,36.31,0.276,3810,37.6
+2,46.26,27512.52,1220.96,4592.18,64.57,0.05,2.29,2.48,3.75,35.83,0.154,1336,13.2
+3,45.56,10943.65,1369.54,12618.67,103.69,0.19,2.22,2.17,2.12,35.37,0.046,957,9.4
