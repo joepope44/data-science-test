@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Size,Pct_of_Total,Attrition_Rate,Customer_Age,Dependent_count,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Credit_Limit,Total_Revolving_Bal,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Trans_Ct,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio
+0,High-Value Dormant Loyal,2713,26.8,0.065,46.3,2.38,35.92,4.36,2.22,2.48,12822.87,1555.81,0.79,2842.06,54.58,0.73,0.24
+1,High-Value Active,1282,12.7,0.122,45.45,2.37,35.19,2.16,2.23,2.27,15588.15,1344.14,0.78,11942.33,99.28,0.73,0.16
+2,Low-Limit Revolvers Loyal,3327,32.9,0.085,46.51,2.33,35.96,3.99,2.36,2.34,3655.22,1636.04,0.76,3734.61,65.66,0.74,0.56
+3,Transactors At-Risk,2805,27.7,0.361,46.52,2.31,36.23,3.83,2.49,2.65,7302.12,138.54,0.72,3263.65,58.12,0.65,0.03

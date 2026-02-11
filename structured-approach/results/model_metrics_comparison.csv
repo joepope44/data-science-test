@@ -1,0 +1,4 @@
+Method,k,Silhouette,Davies_Bouldin,Min_Cluster_Size,Max_Cluster_Size,Size_Std
+K-Means (k=4),4,0.0975,2.5779,1282,3327,759.0
+Hierarchical (k=4),4,0.089,2.3784,575,6171,2192.0
+GMM (k=4),4,0.0996,2.5239,1114,5145,1560.0
